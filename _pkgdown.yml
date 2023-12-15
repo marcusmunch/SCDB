@@ -3,7 +3,7 @@ template:
   bootstrap: 5
 
 authors:
-  Statens Serum Institut:
+  Statens Serum Institut, SSI:
     href: http://ssi.dk
     html: >-
       <img src="https://www.ssi.dk/assets/images/ssi-logo-optimeret.svg"
